@@ -1,0 +1,65 @@
+    1  eeeeeiiiiooooooouuuu
+    2  print("hello world")
+    3  clear
+    4  pwd
+    5  mkdir repogit
+    6  cd repogit
+    7  git clone https://github.com/Marcos-Rodriguez18/repositorio1-.git
+    8  cd repogitbrosd estas bien
+    9  dasdasd
+   10  cd repositorio1
+   11  mkdir prueba213
+   12  cd prueba213
+   13  echo "archivo" > datos.txt
+   14  cat datos.txt
+   15  whoami
+   16  echo "usuario=$(whoami)" >>datos.txt
+   17  cat datos.txt
+   18  grep "usuario" datos.txt
+   19  git add .
+   20  git commit -m "ADD: Archivo agregado"
+   21  su 
+   22  git checkout -b main
+   23  git checkout main
+   24  git init
+   25  git branch -M main
+   26  cd prueba213
+   27  cd repositorio1
+   28  git clone https://github.com/Marcos-Rodriguez18/repositorio1-.git
+   29  cd repositorio1
+   30  cd ..
+   31  cd..
+   32  cd ..
+   33  cd repogit
+   34  cd Users
+   35  cd repogit
+   36  cd ..
+   37  cd ..
+   38  cd ..
+   39  cd repogit
+   40  pwd
+   41  cd repogit
+   42  cd ..
+   43  mkdir repogit
+   44  mkdir repogit1
+   45  cd repogit1
+   46  git clone https://github.com/Marcos-Rodriguez18/ayso213.git
+   47  cd repo-ayso213
+   48  cd Marcos-Rodriguez18
+   49  cd repo-ayso213
+   50  cd repo-marco
+   51  cd repo-ayso213.git
+   52  mkdir ayso213
+   53  cd ayso213
+   54  echo "prueba" > hola1.txt
+   55  cat hola1.txt
+   56  echo "texto agregado" >> hola1.txt
+   57  cat hola1.txt
+   58  celar
+   59  clear
+   60  history
+   61  clear
+   62  history
+   63  clear
+   64  history --help
+   65  history > historico.txt
